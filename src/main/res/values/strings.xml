@@ -101,4 +101,22 @@
   <string name="long_try">Turkish lira</string>
   <string name="long_usd">US dollar</string>
   <string name="long_zar">South African rand</string>
+
+  <string name="button1string">1</string>
+  <string name="button2string">2</string>
+  <string name="button3string">3</string>
+  <string name="button4string">4</string>
+  <string name="button5string">5</string>
+  <string name="button6string">6</string>
+  <string name="button7string">7</string>
+  <string name="button8string">8</string>
+  <string name="button9string">9</string>
+
+  <string name="button0string">0</string>
+  <string name="button00string">00</string>
+  <string name="button000string">000</string>
+
+  <string name="buttonCancelstring">C</string>
+  <string name="buttonEnterstring">OK</string>
+  <string name="buttonDecimalDeviderstring">.</string>
 </resources>
